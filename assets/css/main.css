@@ -2562,7 +2562,7 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border-radius: 0.50em !important ;
+		border-radius: 0.00em !important ;
 		border: 0;
 		display: inline-block;
 		position: relative;
